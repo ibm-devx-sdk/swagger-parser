@@ -242,6 +242,10 @@
     </modules>
     <repositories>
         <repository>
+            <id>na-artifactory-sdkcodegen</id>
+            <url>https://na.artifactory.swg-devops.com:443/artifactory/wcp-sdkcodegen-maven-local/</url>
+        </repository>
+        <repository>
             <id>sonatype-snapshots</id>
             <url>https://oss.sonatype.org/content/repositories/snapshots</url>
             <snapshots>
